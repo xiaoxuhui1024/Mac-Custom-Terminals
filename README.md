@@ -1,4 +1,4 @@
-# Mac-
+# Mac-Custom—Terminals
 Mac自定义终端以及图形文字
 
 ## 配置方法：
