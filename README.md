@@ -14,3 +14,4 @@ Mac自定义终端以及图形文字
 [ 2.https://yq.aliyun.com/articles/103033?t=t1 ]( https://yq.aliyun.com/articles/103033?t=t1 )
 
 
+![图片](https://github.com/xiaoxuhui1024/Mac-Custom-Terminals/blob/master/KoharuYoshino.png)
